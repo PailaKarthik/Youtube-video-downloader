@@ -8,6 +8,7 @@ A simple web application to download YouTube videos, built with Flask for the ba
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
+- [Requirements Installation](#requirements-installation)
 
 ## Description
 
@@ -26,8 +27,15 @@ This YouTube Video Downloader allows users to input a YouTube URL and download v
 - **yt-dlp** (for downloading YouTube videos)
 - **HTML/CSS** (for frontend layout and styling)
 
+
 ## Setup
 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/PailaKarthik/youtube-video-downloader.git
+
+## Requirements Installation
+
+```bash
+   pip install -r requirements.txt
+
